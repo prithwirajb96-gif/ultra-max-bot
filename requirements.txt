@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+python-telegram-bot
+opencv-python
+pillow
+moviepy
+ffmpeg-python
+numpy
